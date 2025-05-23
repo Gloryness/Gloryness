@@ -13,7 +13,7 @@ My Portfolio Website, built with Flask: https://gloryness.net/
 - [Hypixel Goal Tracker](https://github.com/Gloryness/Hypixel-Goal-Tracker) - A peice of software used to track anything on Hypixel.
 
 ### 🔭 I'm currently working on:
-- To Be Determined (or perhaps it top secret?)
+- To Be Determined (or perhaps it's top secret?)
 
 ### 🌱 I'm currently learning:
 - To Be Determined
